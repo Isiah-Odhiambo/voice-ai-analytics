@@ -1,5 +1,8 @@
 import { z } from 'zod'
 
+// Retell webhook payload schema
+// Docs: https://docs.retellai.com/features/webhook-overview
+
 const TranscriptMessageSchema = z.object({
   role: z.enum(['agent', 'user']),
   content: z.string(),
@@ -23,7 +26,7 @@ const CallObjectSchema = z.object({
   call_analysis: z.object({
     call_successful: z.boolean().optional(),
   }).optional(),
-  metadata: z.record(z.any()).optional(),
+  metadata: z.record(z.string(), z.any()).optional(),
 })
 
 export const RetellWebhookSchema = z.object({
