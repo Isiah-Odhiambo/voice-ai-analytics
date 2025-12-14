@@ -2,6 +2,8 @@ import { db } from '@/db'
 import { interviews } from '@/db/schema'
 import { MetricCard, QuestionAnalytics, InterviewList } from '@/components/dashboard'
 
+export const dynamic = 'force-dynamic'
+
 export default async function DashboardPage() {
   const allInterviews = await db.select().from(interviews)
 

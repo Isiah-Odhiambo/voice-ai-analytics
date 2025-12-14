@@ -5,6 +5,8 @@ import { notFound } from 'next/navigation'
 import { BackButton, StatusBadge, MetadataCard, TranscriptView } from '@/components/interview'
 import { formatDuration, formatDate, formatTime } from '@/lib/utils/format'
 
+export const dynamic = 'force-dynamic'
+
 interface PageProps {
   params: Promise<{ callId: string }>
 }
