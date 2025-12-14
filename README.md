@@ -42,8 +42,12 @@ cp .env.example .env
 ### Environment Variables
 
 ```env
-DATABASE_POSTGRES_URL=postgresql://...
-RETELL_API_KEY=your_retell_api_key
+# Database (Supabase Postgres)
+DATABASE_URL="postgres://..."
+DATABASE_POSTGRES_URL_NON_POOLING="postgres://..."
+
+# Retell AI
+RETELL_API_KEY="your_retell_api_key"
 ```
 
 ---
