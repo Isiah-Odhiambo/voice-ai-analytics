@@ -31,7 +31,7 @@ export default async function DashboardPage() {
         </div>
 
         {/* Overview Metrics */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+        <div className="grid grid-cols-3 gap-2 sm:gap-4 mb-8">
           <MetricCard title="Total Interviews" value={totalInterviews} />
           <MetricCard title="Avg Duration" value={avgDuration} suffix="s" />
           <MetricCard title="Completion Rate" value={completionRate} suffix="%" />
